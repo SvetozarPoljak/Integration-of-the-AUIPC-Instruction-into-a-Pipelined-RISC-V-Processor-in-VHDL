@@ -1,0 +1,21 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../packages/alu_ops_pkg.vhd" \
+"../../../../../data_path/ALU_simple.vhd" \
+"../../../../../RISCV_tb/BRAM_byte_addressable.vhd" \
+"../../../../../packages/datapath_signals_pkg.vhd" \
+"../../../../../data_path/register_bank.vhd" \
+"../../../../../data_path/immediate.vhd" \
+"../../../../../data_path/data_path.vhd" \
+"../../../../../packages/controlpath_signals_pkg.vhd" \
+"../../../../../control_path/ctrl_decoder.vhd" \
+"../../../../../control_path/alu_decoder.vhd" \
+"../../../../../control_path/forwarding_unit.vhd" \
+"../../../../../control_path/hazard_unit.vhd" \
+"../../../../../control_path/control_path.vhd" \
+"../../../../../TOP_RISCV.vhd" \
+"../../../../../packages/txt_util.vhd" \
+"../../../../../RISCV_tb/TOP_RISCV_tb.vhd" \
+
+# Do not sort compile order
+nosort

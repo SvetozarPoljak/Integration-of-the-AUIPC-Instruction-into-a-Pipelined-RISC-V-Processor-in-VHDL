@@ -1,0 +1,20 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/RISCV_tb/BRAM_byte_addressable.vhd,1679321335,vhdl,C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/RISCV_tb/TOP_RISCV_tb.vhd,,,bram,,,,,,,,
+C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/RISCV_tb/TOP_RISCV_tb.vhd,1679321335,vhdl,,,,top_riscv_tb,,,,,,,,
+C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/TOP_RISCV.vhd,1713707636,vhdl,C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/RISCV_tb/TOP_RISCV_tb.vhd,,,top_riscv,,,,,,,,
+C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/control_path/alu_decoder.vhd,1679321335,vhdl,C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/control_path/control_path.vhd,,,alu_decoder,,,,,,,,
+C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/control_path/control_path.vhd,1713812109,vhdl,C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/TOP_RISCV.vhd,,,control_path,,,,,,,,
+C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/control_path/ctrl_decoder.vhd,1713709541,vhdl,C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/control_path/control_path.vhd,,,ctrl_decoder,,,,,,,,
+C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/control_path/forwarding_unit.vhd,1679321335,vhdl,C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/control_path/control_path.vhd,,,forwarding_unit,,,,,,,,
+C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/control_path/hazard_unit.vhd,1679321335,vhdl,C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/control_path/control_path.vhd,,,hazard_unit,,,,,,,,
+C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/data_path/ALU_simple.vhd,1679321335,vhdl,C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/data_path/data_path.vhd,,,alu,,,,,,,,
+C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/data_path/data_path.vhd,1713811917,vhdl,C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/TOP_RISCV.vhd,,,data_path,,,,,,,,
+C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/data_path/immediate.vhd,1713707873,vhdl,C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/data_path/data_path.vhd,,,immediate,,,,,,,,
+C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/data_path/register_bank.vhd,1679321335,vhdl,C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/data_path/data_path.vhd,,,register_bank,,,,,,,,
+C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/packages/alu_ops_pkg.vhd,1679321335,vhdl,C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/control_path/alu_decoder.vhd;C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/data_path/ALU_simple.vhd,,,alu_ops_pkg,,,,,,,,
+C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/packages/controlpath_signals_pkg.vhd,1713812329,vhdl,C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/control_path/control_path.vhd,,,controlpath_signals_pkg,,,,,,,,
+C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/packages/datapath_signals_pkg.vhd,1713812451,vhdl,C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/data_path/data_path.vhd,,,datapath_signals_pkg,,,,,,,,
+C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/packages/txt_util.vhd,1678716070,vhdl,C:/Users/Korisnik/Desktop/AUIPC_PIPELINED/RV32I/RISCV_tb/TOP_RISCV_tb.vhd,,,txt_util,,,,,,,,
